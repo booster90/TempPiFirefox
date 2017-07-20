@@ -1,0 +1,16 @@
+{
+  "title": "firefoxPluginGetTemperature",
+  "name": "firefoxPluginGetTemperature",
+  "version": "0.0.1",
+  "description": "Getting temp from raspberry pi",
+  "main": "index.js",
+  "author": "booster",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    ""
+  ]
+}

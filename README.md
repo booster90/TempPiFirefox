@@ -1,0 +1,1 @@
+Simple plugin for firefox getting temperature from json api.
